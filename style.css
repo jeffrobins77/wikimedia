@@ -1,0 +1,15 @@
+.flex-container{
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+}
+#mainDiv{
+  width: 80%;
+  margin: auto;
+  background-color: silver;
+  text-align: justify;
+  vertical-align: top;
+}
+#pictureLinks{
+  flex-direction: row;
+}
